@@ -1,3 +1,3 @@
 # CV-Maker
 
-[Preview](https://hakkanoodles.github.io/cv_project/)
+[Preview](https://47018rohit.github.io/cv_project)
